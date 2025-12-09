@@ -14,10 +14,6 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 
-**Theory**
-
-**Logic Diagram**
-
 # Procedure:
 
 1.	Type the program in Quartus software.
@@ -52,16 +48,11 @@ assign F2=x6|x7|x8|x9|x10;
 endmodule
 ```
 
-
 # RTL realization:
+<img width="579" height="797" alt="DE ex2 1" src="https://github.com/user-attachments/assets/609d5367-cd13-4035-88c8-e67af10ff31c" />
 
-**Output:**
+# Output:
+<img width="1920" height="1080" alt="DE ex2 2" src="https://github.com/user-attachments/assets/612665d9-09aa-4e1b-b6c4-c54ae29d6b9b" />
 
-**RTL**
-
-**Timing Diagram**
-
-**Result:**
-
+# Result:
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
-
